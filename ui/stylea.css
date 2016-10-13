@@ -1,1 +1,23 @@
-<body>
+
+
+.center {
+    text-align: right;
+}
+
+.text-big {
+    font-size: 500%;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.img-medium {
+    height: 100px;
+}
+
+body {
+    font-family:blackops 3;
+    background-color:aqua;
+    margin-top: 90px;
+}
