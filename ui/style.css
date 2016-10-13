@@ -20,3 +20,8 @@ body {
     height: 100px;
 }
 
+body {
+    font-family:algerian;
+    background-color:red;
+    margin-top: 65px;
+}
